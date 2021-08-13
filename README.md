@@ -1,0 +1,2 @@
+# PyPractice
+random practice codes
